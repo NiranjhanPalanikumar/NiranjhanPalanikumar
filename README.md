@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjhan Palanikumar</h1>
-<h3 align="center">An aspiring AI engineer from Sheffield, United Kingdom</h3>
+<h3 align="center">An aspiring AI engineer from Liverpool, United Kingdom</h3>
 <img align="right" alt="Coding" width="400" src="https://databand.ai/wp-content/uploads/2021/09/Hero-image-illustration-video.gif">
 
 
